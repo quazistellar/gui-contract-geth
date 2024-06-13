@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contlog {
+  margin-top: 120px;
+  margin-left: 250px;
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 0 50px;
+}
